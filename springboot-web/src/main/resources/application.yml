@@ -1,0 +1,10 @@
+#cache：关闭缓存，即实时刷新
+#enabled：热部署生效
+#additional-paths：设置重启的目录，添加哪个目录的文件需要restart
+#spring:
+#  thymeleaf:
+#    cache: true
+#  devtools:
+#    restart:
+#      enabled: true
+#      additional-paths: src/main/java
