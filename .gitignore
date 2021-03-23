@@ -9,3 +9,11 @@ springboot-springcloud/eureka-server/target
 #privider-ticket
 springboot-springcloud/privider-ticket/.idea
 springboot-springcloud/privider-ticket/target
+
+#springboot-demo
+springboot-demo/.idea
+springboot-demo/target
+
+#springboot-cache
+springboot-cache/.idea
+springboot-cache/target
